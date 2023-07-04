@@ -8,9 +8,9 @@ public class Employee extends Person{
 	public Employee()
 	{
 		super();
-		empId=34567;
-		salary=45000;
-		performancerating=3;
+		empId=123;
+		salary=50000;
+		performancerating=8;
 	}
 	
 	public Employee(int empId,double salary,int performancerating)
