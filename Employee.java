@@ -1,4 +1,4 @@
-package com.accenture.inheritance;
+package com.acn.inheritance;
 
 public class Employee extends Person{
 	private int empId;
