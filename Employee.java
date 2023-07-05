@@ -45,7 +45,9 @@ public class Employee extends Person{
 		this.performancerating = performancerating;
 	}
 	
+
 	public void printEmployeeDetails()//test
+
 	{
 		System.out.println("FirstName:"+getFirstName());
 		System.out.println("LastName:"+getLastName());
